@@ -1,0 +1,9 @@
+To run the test cases right click on each test cases and run as TestNG
+
+I could only write 3 test cases
+but each of them are different and I have also used POM model and also used baseTest which is common for all
+test cases
+
+The first test case is simple validates the title
+Second one is fill form of watchDemo
+Third one is to compare the expiration of the pricings 
